@@ -28,3 +28,6 @@ if (__name__ == '__main__'):
         img_count+=1
 
     print('Completed Optmizations: ' + str(img_count))
+    print('Press Key to quit: ')
+    input()
+    
