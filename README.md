@@ -5,7 +5,7 @@ This script optimimizes Images to be used on a website.
 The executable file is located in the _'dist'_ directory. Simply copy this file into a directoy with images and run it. All images in this directory will be optimized.
 **WARNING: The original images will be lost!**
 
-# Einfaches Programm zu Web-Optimierung von Bildern
+# Einfaches Programm zur Web-Optimierung von Bildern
 Dieses Skript optimiert Bilder, damit sie beispielsweise auf einer Webseite eingebunden werden können.
 
 ## Anwendung
